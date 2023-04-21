@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TH2_KhoaHoc</string>
+    <string-array name="ChuyenNganh">
+        <item>CNTT</item>
+        <item>Kế Toán</item>
+        <item>Thiết kế đồ họa</item>
+        <item>Quản trị kinh doanh</item>
+    </string-array>
+</resources>

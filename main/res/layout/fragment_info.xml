@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="35dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="FragmentInfo" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:srcCompat="@drawable/img" />
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:text="Tên ngành :CNTT"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="207dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:text="Công nghệ Thông tin (CNTT) là một trong những ngành đóng vai trò quan trọng trong sự phát triển của xã hội. Nó không chỉ thúc đẩy nhanh chóng quá trình tăng trưởng kinh tế, mà còn kéo theo sự biến đổi trong phương thức sáng tạo của cải, trong lối sống và tư duy của con người. Việc nhanh chóng đưa ứng dụng CNTT vào quá trình tự động hóa trong sản xuất kinh doanh là vấn đề đã, đang và sẽ luôn được quan tâm bởi lẽ CNTT có vai trò rất lớn trong mọi hoạt động kinh tế, xã hội - đặc biệt là cuộc Cách mạng Công nghiệp 4.0 đang tác động đến toàn thế giới hiện nay.
+          \n ...." />
+</LinearLayout>
