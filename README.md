@@ -103,3 +103,8 @@ Bước 9, Sửa đổi thành phần dịch vụ Đặt vé xem phim
 
 
 Ngôn ngữ dự định sử dụng: ASP .Net
+
+![image](https://user-images.githubusercontent.com/91041371/234148437-d5875a00-9eef-40f1-bd0c-f7856a7b18a3.png)
+
+![image](https://user-images.githubusercontent.com/91041371/234148448-ed51947f-0e31-4f30-ab92-2189cb3816f3.png)
+
